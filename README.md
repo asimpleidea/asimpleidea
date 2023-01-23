@@ -2,7 +2,7 @@
 
 My name is Elis.
 
-I am software engineer specializing in cloud technologies, you can find more about the things I work with in the area below
+I am software engineer specialized in cloud technologies. You can find more about the things I work with in the area below.
 
 When I am not working, I love to stay up to date by reading lots of articles, tutorials and watching webinars about technology, programming and cloud native news.
 
